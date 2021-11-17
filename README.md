@@ -15,7 +15,7 @@ Onde me encontrar? :mag:
 
 <a href="https://twitter.com/jorginhodev"><img src="https://github.com/jorginhodev/jorginhodev/blob/main/images/twitter.svg" width="16"></img></a> [Twitter](https://twitter.com/jorginhodev)   
 
-<a href="https://www.instagram.com/jorginhodev"><img src="https://github.com/jorginhodev/jorginhodev/blob/main/images/instagram.svg" width="16"></img></a> [Instagram](https://www.instagram.com/jorginhodev)  
+<a href="https://www.instagram.com/jorginhodev/"><img src="https://github.com/jorginhodev/jorginhodev/blob/main/images/instagram.svg" width="16"></img></a> [Instagram](https://www.instagram.com/jorginhodev)  
 
 <a href="https://www.linkedin.com/in/jorgeramos84"><img src="https://github.com/jorginhodev/jorginhodev/blob/main/images/linkedin.svg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jorgeramos84)  
 
